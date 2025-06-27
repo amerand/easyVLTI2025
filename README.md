@@ -19,8 +19,8 @@ If you have never done so, applying, observing and analysing data for [ESO](www.
 ## Trainings, JMMC tools and tutorials:
 - [VLTI Summer School 2021 material](https://www.jmmc.fr/schools/vltischool2021/)
 - [VLTI Summer School 2024 material](https://zenodo.org/communities/vltischool2024/records?q=&l=list&p=1&s=10&sort=newest)
-- [JMMC tools (OIfits Explorer, ASPRO, SearchCal, OIDB)](https://www.jmmc.fr/
-Video tutorials: https://www.jmmc.fr/english/training/tools-tutorials/)
+- [JMMC tools (OIfits Explorer, ASPRO, SearchCal, OIDB)](https://www.jmmc.fr/)
+ and [Video tutorials](https://www.jmmc.fr/english/training/tools-tutorials/)
 
 ## Phase 1 (proposals)
 - [ESO P1 Call for proposals](https://www.eso.org/sci/observing/phase1/proposals.html)
@@ -29,8 +29,8 @@ Video tutorials: https://www.jmmc.fr/english/training/tools-tutorials/)
 - Manuals for a given period can be found on the webpages of the instruments: [GRAVITY](https://www.eso.org/sci/facilities/paranal/instruments/gravity/doc.html), [MATISSE](https://www.eso.org/sci/facilities/paranal/instruments/matisse/doc.html) and [PIONIER](https://www.eso.org/sci/facilities/paranal/instruments/pionier/doc.html),
 
 ## Phase 2 (Observation preparation)
-- [SearchCal](https://www.jmmc.fr/english/tools/proposal-preparation/search-cal/)
-- [P2 demo](https://www.eso.org/p2demo)
+- [P2 demo](https://www.eso.org/p2demo): tour of ESO's phase 2 tool
+- [SearchCal](https://www.jmmc.fr/english/tools/proposal-preparation/search-cal/): calibrators need to be provided at phase 2!
 
 ## Data reduction
 - [ESO archive](https://archive.eso.org/eso/eso_archive_main.html) for raw data
