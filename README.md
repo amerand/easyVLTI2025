@@ -9,6 +9,12 @@ If you have never done so, applying, observing and analysing data for [ESO](www.
 - Reduce your data, by yourself or with the help of the VLTI expertise centres (by Foteini Claire Lykou)
 - Analyse your data with open tools (by Jens Kammerer)
 
+# Acknowledgments
+
+This slide show was presented during the Session ["LS7: Your science with the VLTI: easier than you think!"](https://eas.unige.ch/EAS2025/session.jsp?id=LS7) at the European Astronomical Society meeting in June 27, 2025.
+
+The session was coordinated by Antoine Mérand, Foteini Claire Lykou and Rebeca Garcia-Lopez, with the support of the European Interferometry Initiative ([EII](https://european-interferometry.eu)) and the European Southern Observatory ([ESO](www.eso.org)).
+
 # Useful links
 
 ## Support and assistance:
