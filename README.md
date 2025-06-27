@@ -19,7 +19,7 @@ The session was coordinated by Antoine Mérand, Foteini Claire Lykou and Rebeca 
 
 ## Support and assistance:
 - [ESO USD](https://support.eso.org/en-GB) (users support department)
-- [VLTI Expertise Centres](https://european-interferometry.eu/vlti-expertise-centers/)
+- [VLTI Expertise Centres](https://european-interferometry.eu/vlti-expertise-centers/) ran by the community
 - [Jean-Marie Mariotti Centre helpdesk](https://www.jmmc.fr/english/user-support/expertise-center/)
 
 ## Trainings, JMMC tools and tutorials:
@@ -29,7 +29,7 @@ The session was coordinated by Antoine Mérand, Foteini Claire Lykou and Rebeca 
  and [Video tutorials](https://www.jmmc.fr/english/training/tools-tutorials/)
 
 ## Phase 1 (proposals)
-- [ESO P1 Call for proposals](https://www.eso.org/sci/observing/phase1/proposals.html)
+- [ESO Call for proposals](https://www.eso.org/sci/observing/phase1/proposals.html)
 - [ESO P1 tool](https://www.eso.org/p1/) and [demo](https://www.eso.org/p1demo/)
 - [Anonymisation rules](https://www.eso.org/sci/observing/phase1/dual-anonymous-guidelines.html) for ESO proposals
 - Manuals for a given period can be found on the webpages of the instruments: [GRAVITY](https://www.eso.org/sci/facilities/paranal/instruments/gravity/doc.html), [MATISSE](https://www.eso.org/sci/facilities/paranal/instruments/matisse/doc.html) and [PIONIER](https://www.eso.org/sci/facilities/paranal/instruments/pionier/doc.html),
