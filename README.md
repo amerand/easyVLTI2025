@@ -35,7 +35,7 @@ If you have never done so, applying, observing and analysing data for [ESO](www.
 ## Data reduction
 - [ESO archive](https://archive.eso.org/eso/eso_archive_main.html) for raw data
 - ESO pipelines for [GRAVITY](https://www.eso.org/sci/software/pipelines/gravity/), [MATISSE](https://www.eso.org/sci/software/pipelines/matisse/), including documentation and cookbooks
-- links to additional tools (e.g. python scripting for pipelines) for [GRAVITY](https://www.eso.org/sci/facilities/paranal/instruments/gravity/tools.html) and [MATISSE](https://www.eso.org/sci/facilities/paranal/instruments/matisse/tools.html)
+- links to additional tools (e.g. python scripting for pipelines) for [PIONIER](https://www.eso.org/sci/facilities/paranal/instruments/pionier/tools.html), [GRAVITY](https://www.eso.org/sci/facilities/paranal/instruments/gravity/tools.html) and [MATISSE](https://www.eso.org/sci/facilities/paranal/instruments/matisse/tools.html)
 - JMMC's database of reduced data [OiDB](https://www.jmmc.fr/english/tools/data-bases/oidb/)
 
 ## Utilities
@@ -47,5 +47,5 @@ If you have never done so, applying, observing and analysing data for [ESO](www.
 - More complex modeling (e.g. arbitrary combinations of components, chromatic, spectroscopic, time variable) check out [fouriever](https://github.com/kammerje/fouriever), [PMOIRED](https://github.com/amerand/PMOIRED) or [OIMODELER](https://github.com/oimodeler/oimodeler)
 
 ## Image reconstruction
-- [OIMAGING](https://www.jmmc.fr/english/tools/data-analysis/oimaging/): is a project to make a wrapper for many of the image reconstruction tools such as  [MiRA](https://github.com/emmt/MiRA), [SQUEEZE](https://github.com/fabienbaron/squeeze) or [BSMEM](https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs/bsmem)
+- [OIMAGING](https://www.jmmc.fr/english/tools/data-analysis/oimaging/): a wrapper for image reconstruction tools such as [MiRA](https://github.com/emmt/MiRA), [SQUEEZE](https://github.com/fabienbaron/squeeze) or [BSMEM](https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs/bsmem)
 - Newer tools include machine learning, like [Organic](https://github.com/DePrinsT/organic) or [CASSINI](https://github.com/cosmosz5/CASSINI)
