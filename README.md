@@ -1,6 +1,6 @@
 # VLTI is easier than you tink!
 
-If you have never done so, applying, observing and analysing data for [ESO](www.eso.org)'s [VLTI](https://www.eso.org/sci/facilities/paranal/telescopes/vlti.html) can be intimidating... but worry no more! a team of young and diverse scientists has put together some material to help you get familiar with all the steps necessary to get your awesome astrophysical result with VLTI, so you can join the [nearly 600 refereed papers published with VLTI](https://telbib.eso.org/?boolany=or&boolaut=or&boolti=or&yearto=2025&boolins=or&telescope%5B%5D=%22VLTI%22&booltel=or&boolsite=or&search=Search) (as of mid-2025):
+If you have never done so, applying, observing and analysing data for [ESO](www.eso.org)'s [VLTI](https://www.eso.org/sci/facilities/paranal/telescopes/vlti.html) can be intimidating... but worry no more! a team of young and diverse scientists has put together [some material](https://github.com/amerand/easyVLTI2025/blob/main/EAS_LS7_joint_slides.pdf) to help you get familiar with all the steps necessary to get your awesome astrophysical result with VLTI, so you can join the [nearly 600 refereed papers published with VLTI](https://telbib.eso.org/?boolany=or&boolaut=or&boolti=or&yearto=2025&boolins=or&telescope%5B%5D=%22VLTI%22&booltel=or&boolsite=or&search=Search) (as of mid-2025):
 
 - What is optical interferometry and VLTI in particular (by Farin Drewes)
 - Convert your idea into a proposal (by Evgenia Koumpia)
@@ -11,7 +11,7 @@ If you have never done so, applying, observing and analysing data for [ESO](www.
 
 # Acknowledgments
 
-This slide show was presented during the Session ["LS7: Your science with the VLTI: easier than you think!"](https://eas.unige.ch/EAS2025/session.jsp?id=LS7) at the European Astronomical Society meeting in June 27, 2025.
+This [slide show](https://github.com/amerand/easyVLTI2025/blob/main/EAS_LS7_joint_slides.pdf) was presented during the Session ["LS7: Your science with the VLTI: easier than you think!"](https://eas.unige.ch/EAS2025/session.jsp?id=LS7) at the European Astronomical Society meeting in June 27, 2025.
 
 The session was coordinated by Antoine Mérand, Foteini Claire Lykou and Rebeca Garcia-Lopez, with the support of the European Interferometry Initiative ([EII](https://european-interferometry.eu)) and the European Southern Observatory ([ESO](www.eso.org)).
 
