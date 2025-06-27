@@ -2,7 +2,7 @@
 
 If you have never done so, applying, observing and analysing data for [ESO](www.eso.org)'s [VLTI](https://www.eso.org/sci/facilities/paranal/telescopes/vlti.html) can be intimidating... but worry no more! a team of young and diverse scientists has put together some material to help you get familiar with all the steps necessary to get your awesome astrophysical result with VLTI, so you can join the [nearly 600 refereed papers published with VLTI](https://telbib.eso.org/?boolany=or&boolaut=or&boolti=or&yearto=2025&boolins=or&telescope%5B%5D=%22VLTI%22&booltel=or&boolsite=or&search=Search) (as of mid-2025):
 
-- What is optical interfereomtry and VLTI in particular (by Farin Drewes)
+- What is optical interferometry and VLTI in particular (by Farin Drewes)
 - Convert your idea into a proposal (by Evgenia Koumpia)
 - Prepare you proposal: using [ESO phase 1](https://www.eso.org/sci/observing/phase1.html) (by Emma Bordier)
 - Prepare your observations: using [ESO phase 2](https://www.eso.org/sci/observing/phase2.html) (by James Leftley)
@@ -12,9 +12,9 @@ If you have never done so, applying, observing and analysing data for [ESO](www.
 # Useful links
 
 ## Support and assistance:
-- [ESO USD](https://support.eso.org/en-GB)
-- [Jean-Marie Mariotti Centre helpdesk](https://www.jmmc.fr/english/user-support/expertise-center/)
+- [ESO USD](https://support.eso.org/en-GB) (users support department)
 - [VLTI Expertise Centres](https://european-interferometry.eu/vlti-expertise-centers/)
+- [Jean-Marie Mariotti Centre helpdesk](https://www.jmmc.fr/english/user-support/expertise-center/)
 
 ## Trainings, JMMC tools and tutorials:
 - [VLTI Summer School 2021 material](https://www.jmmc.fr/schools/vltischool2021/)
