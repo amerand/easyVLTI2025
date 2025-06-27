@@ -4,7 +4,7 @@ If you have never done so, applying, observing and analysing data for [ESO](www.
 
 - What is optical interferometry and VLTI in particular (by Farin Drewes)
 - Convert your idea into a proposal (by Evgenia Koumpia)
-- Prepare you proposal: using [ESO phase 1](https://www.eso.org/sci/observing/phase1.html) (by Emma Bordier)
+- Prepare your proposal: using [ESO phase 1](https://www.eso.org/sci/observing/phase1.html) (by Emma Bordier)
 - Prepare your observations: using [ESO phase 2](https://www.eso.org/sci/observing/phase2.html) (by James Leftley)
 - Reduce your data, by yourself or with the help of the VLTI expertise centres (by Foteini Claire Lykou)
 - Analyse your data with open tools (by Jens Kammerer)
