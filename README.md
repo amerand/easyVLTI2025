@@ -1,6 +1,7 @@
 # VLTI is easier than you tink!
 
-If you have never done so, applying, observing and analysing data for [ESO](www.eso.org)'s [VLTI](https://www.eso.org/sci/facilities/paranal/telescopes/vlti.html) can be intimidating... but worry no more! a team of young diverse scientists has put together some material to familiarise you with all the step necessary to get you awesome astrophysical result:
+If you have never done so, applying, observing and analysing data for [ESO](www.eso.org)'s [VLTI](https://www.eso.org/sci/facilities/paranal/telescopes/vlti.html) can be intimidating... but worry no more! a team of young and diverse scientists has put together some material to help you get familiar with all the steps necessary to get your awesome astrophysical result with VLTI, so you can join the [nearly 600 refereed papers published with VLTI](https://telbib.eso.org/?boolany=or&boolaut=or&boolti=or&yearto=2025&boolins=or&telescope%5B%5D=%22VLTI%22&booltel=or&boolsite=or&search=Search) (as of mid-2025):
+
 - What is optical interfereomtry and VLTI in particular (by Farin Drewes)
 - Convert your idea into a proposal (by Evgenia Koumpia)
 - Prepare you proposal: using [ESO phase 1](https://www.eso.org/sci/observing/phase1.html) (by Emma Bordier)
@@ -34,19 +35,10 @@ Video tutorials: https://www.jmmc.fr/english/training/tools-tutorials/)
 - JMMC's database of reduced data [OiDB](https://www.jmmc.fr/english/tools/data-bases/oidb/)
 
 ## Data analysis
-### General utilities
-- [Aspro2](https://www.jmmc.fr/~betaswmgr/Aspro2/): observations planning and simulation (a must!)
-- Definition of the OIFITSv2 format is described in [Duvert et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...597A...8D/abstract)
-- [OIFITS-explorer](https://www.jmmc.fr/english/tools/data-analysis/oifits-explorer/): simple viewer for OIFITS files
-### Model fitting
-- [LITpro](https://www.jmmc.fr/apps/public/LITpro/): basic model fitting with graphical interface
-- [CANDID](https://github.com/amerand/CANDID): Companion detection and and upper limit
-- [PMOIRED](https://github.com/amerand/PMOIRED): complex modeling, including chromatic, time variable, etc
-- [fouriever](https://github.com/kammerje/fouriever)
-- [OIMODELER](https://github.com/oimodeler/oimodeler): complex modeling, including chromatic, time variable, etc
-### Image reconstruction
-- [OIMAGING](https://www.jmmc.fr/english/tools/data-analysis/oimaging/): a wrapper for many of the image reconstruction tools below
-- [MiRA](https://github.com/emmt/MiRA)
-- [SQUEEZE](https://github.com/fabienbaron/squeeze)
-- [Organic](https://github.com/DePrinsT/organic)
-- [CASSINI](https://github.com/cosmosz5/CASSINI)
+- General utilities from JMMC such as [Aspro2](https://www.jmmc.fr/~betaswmgr/Aspro2/): observations planning and simulation (a must!) or [OIFITS-explorer](https://www.jmmc.fr/english/tools/data-analysis/oifits-explorer/), a simple viewer for OIFITS files. Definition of the OIFITSv2 format is described in [Duvert et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...597A...8D/abstract)
+## Model fitting
+- basic tools such as [LITpro](https://www.jmmc.fr/apps/public/LITpro/) (basic model fitting with graphical interface) or [CANDID](https://github.com/amerand/CANDID): Companion detection and and upper limit
+- More complex modeling (e.g. arbitrary combinations of components, chromatic, spectroscopic, time variable) check out [fouriever](https://github.com/kammerje/fouriever), [PMOIRED](https://github.com/amerand/PMOIRED) or [OIMODELER](https://github.com/oimodeler/oimodeler)
+## Image reconstruction
+- [OIMAGING](https://www.jmmc.fr/english/tools/data-analysis/oimaging/): is a project to make a wrapper for many of the image reconstruction tools such as  [MiRA](https://github.com/emmt/MiRA), [SQUEEZE](https://github.com/fabienbaron/squeeze) or [BSMEM](https://www.astro.phy.cam.ac.uk/research/ResearchFacilities/software-for-astrophyiscs/bsmem)
+- newer tools include machine learning, like [Organic](https://github.com/DePrinsT/organic) or [CASSINI](https://github.com/cosmosz5/CASSINI)
